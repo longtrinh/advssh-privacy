@@ -1,6 +1,6 @@
 # Privacy Policy: Advanced SSH Client
 
-Effective date: 23/11/2026
+Effective date: 23/11/2026, 
 Publisher: Long Trinh, contact: admin@tucthoi.com
 
 ## Summary
