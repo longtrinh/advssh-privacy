@@ -2,8 +2,8 @@
 
 *Draft. The owner must add their name/contact details, review it, and publish it at a public URL before release.*
 
-Effective date: [to be set on publication]
-Publisher: [owner's legal name], contact: [email]
+Effective date: 23/11/2026
+Publisher: Long Trinh, contact: admin@tucthoi.com
 
 ## Summary
 
